@@ -1,3 +1,10 @@
+---
+layout: default
+permalink: /:month-:day-:year/:title.html
+title: Hello World!
+---
+
+
 Hello World
 ===============
 
