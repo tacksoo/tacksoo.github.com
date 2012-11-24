@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /:month-:day-:year/:title.html
 title: first
 ---
 
