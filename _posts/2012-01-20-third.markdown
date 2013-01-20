@@ -1,0 +1,8 @@
+
+---
+layout: default
+title: third
+category: project
+---
+
+Third post!
