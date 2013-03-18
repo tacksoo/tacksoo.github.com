@@ -14,7 +14,7 @@
 </li>
 
 <li>
-<a href=-"http://wiki.ggc.edu/wiki/ITEC2120">ITEC 2120 - Introduction to Programming</a>
+<a href="http://wiki.ggc.edu/wiki/ITEC2120">ITEC 2120 - Introduction to Programming</a>
 </li>
 
 <li>
