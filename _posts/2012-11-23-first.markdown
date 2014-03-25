@@ -22,6 +22,6 @@ public static void main(String[] args) {
 
 {% highlight php %}
 public function() { 
-  echo "hello world");
+  echo("hello world");
 }
 {% endhighlight %}
