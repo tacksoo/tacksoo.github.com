@@ -38,4 +38,3 @@ def sayhello():
 {% endhighlight %}
 
 
-{% gist a973c278cb06e56fb590 %}
