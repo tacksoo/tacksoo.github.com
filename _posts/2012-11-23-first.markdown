@@ -31,3 +31,8 @@ function sayHello() {
   alert("hello world");
 }
 {% endhighlight %}
+
+{% highlight python %}
+def sayhello():
+  print "hello world"
+{% endhighlight %}
