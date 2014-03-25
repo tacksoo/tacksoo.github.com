@@ -14,8 +14,14 @@ Hello World!!!
 
 {% highlight java %}
 public static void main(String[] args) {
-
   System.out.println("hello world");
-  
+}
+{% endhighlight %}
+
+
+
+{% highlight php %}
+public function() { 
+  echo "hello world");
 }
 {% endhighlight %}
