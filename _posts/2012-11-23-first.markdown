@@ -21,7 +21,13 @@ public static void main(String[] args) {
 
 
 {% highlight php %}
-public function() { 
+public function sayHello() { 
   echo("hello world");
+}
+{% endhighlight %}
+
+{% highlight javascript %}
+function sayHello() { 
+  alert("hello world");
 }
 {% endhighlight %}
