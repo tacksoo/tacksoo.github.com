@@ -2,6 +2,10 @@
 
 <ul>
 <li>
+<a href="http://wiki.ggc.edu/wiki/ITEC3870">ITEC 3870 - Software Development 2</a>
+</li>
+
+<li>
 <a href="http://wiki.ggc.edu/wiki/ITEC3860">ITEC 3860 - Software Development 1</a>
 </li>
 
