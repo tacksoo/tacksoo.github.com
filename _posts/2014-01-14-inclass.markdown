@@ -1,0 +1,8 @@
+---
+layout: default
+title: Blogging in class
+category: project
+---
+
+I am writing this in my ITEC 3870 software development 2 class. 
+We are currently covering basic shell commands and reviewing git.
